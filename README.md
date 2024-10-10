@@ -45,12 +45,12 @@
   * > Desafío
   * > Prueba
 * Lección 3 Animaciones 2D
-  * > <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+  * > <a href=" https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/tree/666eadc0af69cd98cd27777e937ab4eb87ade816/challenge_3D">Challenge 3D</a>
+ 
 * Lección 4 Challenge 1
   * > Tutorial
   * > Laboratorio
-    >  <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    > - [Challenge_3D](#Challenge_3D)
+  * > <a href=" https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/tree/666eadc0af69cd98cd27777e937ab4eb87ade816/challenge_3D">Challenge 3D</a>
   * > Desafío
   * > Prueba
 * Lección 5
