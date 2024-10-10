@@ -50,7 +50,7 @@
 * Lección 4 Challenge 1
   * > Tutorial
   * > Laboratorio
-  * > <a href=" https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/tree/666eadc0af69cd98cd27777e937ab4eb87ade816/challenge_3D">Challenge 3D</a>
+  - [Challenge 3D](#[introducción](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/tree/666eadc0af69cd98cd27777e937ab4eb87ade816/challenge_3D))
   * > Desafío
   * > Prueba
 * Lección 5
