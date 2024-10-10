@@ -52,7 +52,7 @@
 * Lección 4 Challenge 1
   * > Tutorial
   * > Laboratorio
-    > challenge_3D
+    > - [Challenge_3D](#Challenge_3D)
   * > Desafío
   * > Prueba
 * Lección 5
