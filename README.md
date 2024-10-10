@@ -45,13 +45,11 @@
   * > Desafío
   * > Prueba
 * Lección 3 Animaciones 2D
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
 * Lección 4 Challenge 1
   * > Tutorial
   * > Laboratorio
+    >  <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     > - [Challenge_3D](#Challenge_3D)
   * > Desafío
   * > Prueba
