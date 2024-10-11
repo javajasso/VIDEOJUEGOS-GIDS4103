@@ -1,14 +1,6 @@
 # Creación de Video Juego
 <p align="center">
     <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
-
-  <p align="center">
-    Short description
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
-  </p>
 </p>
 
 
@@ -25,6 +17,9 @@
 
 * Lección 1 Prorotipo 1 - Control del Carrito
    * > [Aplicación Unity](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/tree/main/Prototype%201)
+<p align="center">
+    <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/carrito.png" alt="Logo" width=1200 height=300>
+</p>
 * Lección 2 Prototipo 2 Jugabilidad Básica
   * > Tutorial
   * > Laboratorio
