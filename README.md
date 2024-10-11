@@ -20,6 +20,9 @@
 - [Autores](#autores)
 - [Copyright](#copyright)
 
+- [Challenge 3D](#(https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/tree/666eadc0af69cd98cd27777e937ab4eb87ade816/challenge_3D))
+
+
 
 ## Introducción
 
@@ -34,25 +37,23 @@
 
 ## Código Fuente
 
-* Lección 1 Prorotipo 1 - Carrito
+* Lección 1 Prorotipo 1 - Control del Carrito
   * > Tutorial
   * > Laboratorio
   * > Desafío
-  * > Prueba
-* Lección 2 Prototipo 2 Animales y Comida
+  * > Aplicación Unity
+* Lección 2 Prototipo 2 Jugabilidad Básica
   * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
 * Lección 3 Animaciones 2D
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > <a href=" https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/tree/666eadc0af69cd98cd27777e937ab4eb87ade816/challenge_3D">Challenge 3D</a>
+ 
 * Lección 4 Challenge 1
   * > Tutorial
   * > Laboratorio
-    > - [Challenge_3D](#Challenge_3D)
+  - [Challenge 3D](#[introducción](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/tree/666eadc0af69cd98cd27777e937ab4eb87ade816/challenge_3D))
   * > Desafío
   * > Prueba
 * Lección 5
