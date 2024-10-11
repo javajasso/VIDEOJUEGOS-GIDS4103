@@ -20,14 +20,14 @@
 <p align="center">
     <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/carrito.png" alt="Logo" width=1000 height=300>
 </p>
- * > 
+
 * Lección 2 Prototipo 2 Jugabilidad Básica 
   * > [Aplicación Unity](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Prototype%202/prototipo2_GIDS4103_JASSO.unitypackage)
   * > [Capturas de Evidencia](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Prototype%202/Ejercicio%20Guiado%202.pdf)
   <p align="center">
     <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/jugabilidad.png" alt="Logo" width=1000 height=300>
 </p>
- * > 
+  
 * Lección 3 Animaciones 2D
 ###Parte 1
   * > [Aplicación Unity]()
@@ -35,7 +35,7 @@
   <p align="center">
     <img src="" alt="Logo" width=1000 height=300>
 </p>
- * > 
+ 
 
  ###Parte 2
   * > [Aplicación Unity]()
@@ -43,7 +43,7 @@
   <p align="center">
     <img src="" alt="Logo" width=1000 height=300>
 </p>
- * > 
+ 
 
  ###Parte 3
   * > [Aplicación Unity]()
@@ -51,7 +51,7 @@
   <p align="center">
     <img src="" alt="Logo" width=1000 height=300>
 </p>
- * > 
+ 
  
 * Lección 4 Challenge 1
   * > Aplicacion Unity
@@ -71,32 +71,30 @@
   <p align="center">
     <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/challenge1.png" alt="Logo" width=1000 height=300>
  </p>
- * > 
+ 
 * Lección 2 Prototipo 2 Jugabilidad Básica
    * > [Aplicación Unity]()
   <p align="center">
     <img src="" alt="Logo" width=1000 height=300>
  </p>
- * > 
+ 
 * Lección 3 Animaciones 2D
    * > [Aplicación Unity]()
   <p align="center">
     <img src="" alt="Logo" width=1000 height=300>
  </p>
- * > 
  
 * Lección 4 Challenge 1
    * > [Aplicación Unity]()
   <p align="center">
     <img src="" alt="Logo" width=1000 height=300>
   </p>
- * > 
 * Lección 5
   * > [Aplicación Unity]()
   <p align="center">
     <img src="" alt="Logo" width=1000 height=300>
   </p>
- * > 
+
 * VideoJuego
 
 
