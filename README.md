@@ -24,10 +24,7 @@
 ## Proyectos
 
 * Lección 1 Prorotipo 1 - Control del Carrito
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Aplicación Unity
+   * > [Aplicación Unity](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/tree/main/Prototype%201)
 * Lección 2 Prototipo 2 Jugabilidad Básica
   * > Tutorial
   * > Laboratorio
