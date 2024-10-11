@@ -15,7 +15,7 @@
 
 
 ## Contenido
-- [Proyectos de Clase](#proyectos de clase)
+- [Proyectos de Clase](#proyectosdeclase)
 - [Challenges](#challenges)
 - [Autor](#autor)
 
