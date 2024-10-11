@@ -64,7 +64,7 @@
 * Challenge 1 3D
   * > [Aplicación Unity](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Challenge%203D/challenge_3D_JASSO.unitypackage)
   <p align="center">
-    <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/challenge1.png" alt="Logo" width=1000 height=300>
+    <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/challenge1.png" alt="Logo" width=800 height=300>
  </p>
  
 * Challenge 2 Prototipo 2 Jugabilidad Básica
