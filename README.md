@@ -38,60 +38,48 @@
  ###Parte 2
   * > [Aplicación Unity]()
   * > [Capturas de Evidencia]()
-  <p align="center">
-    <img src=""  width=1000 height=300>
-</p>
+  > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->  
  
 
  ###Parte 3
   * > [Aplicación Unity]()
   * > [Capturas de Evidencia]()
-  <p align="center">
-    <img src=""  width=1000 height=300>
-</p>
+  > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->  
  
  
-* Lección 4 Challenge 1
+* Lección 4 
   * > Aplicacion Unity
-  
+   > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->
+   > 
 * Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+   * > Aplicacion Unity
+   > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->
+   > 
 
 
 
 ## Challenges
 
-* Lección 1 Prorotipo 1 - Control del Carrito
+* Challenge 1 3D
   * > [Aplicación Unity](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Challenge%203D/challenge_3D_JASSO.unitypackage)
   <p align="center">
     <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/challenge1.png" alt="Logo" width=1000 height=300>
  </p>
  
-* Lección 2 Prototipo 2 Jugabilidad Básica
+* Challenge 2 Prototipo 2 Jugabilidad Básica
    * > [Aplicación Unity]()
-  <p align="center">
-    <img src="" width=1000 height=300>
- </p>
+  > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> --> 
  
-* Lección 3 Animaciones 2D
+* Challenge 3 Animaciones 2D
    * > [Aplicación Unity]()
-  <p align="center">
-    <img src=""  width=1000 height=300>
- </p>
+  > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> --> 
  
-* Lección 4 Challenge 1
+* Challenge 4
    * > [Aplicación Unity]()
-  <p align="center">
-    <img src="" width=1000 height=300>
-  </p>
-* Lección 5
+   > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->  
+* Challenge 5
   * > [Aplicación Unity]()
-  <p align="center">
-    <img src=""  width=1000 height=300>
-  </p>
+  > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->  
 
 * VideoJuego
 
