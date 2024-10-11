@@ -37,12 +37,12 @@
 
 ## Código Fuente
 
-* Lección 1 Prorotipo 1 - Carrito
+* Lección 1 Prorotipo 1 - Control del Carrito
   * > Tutorial
   * > Laboratorio
   * > Desafío
-  * > Prueba
-* Lección 2 Prototipo 2 Animales y Comida
+  * > Aplicación Unity
+* Lección 2 Prototipo 2 Jugabilidad Básica
   * > Tutorial
   * > Laboratorio
   * > Desafío
