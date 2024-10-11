@@ -15,9 +15,9 @@
 
 
 ## Contenido
-- [Proyectos de Clase](#lecciones)
+- [Proyectos de Clase](#proyectos de clase)
 - [Challenges](#challenges)
-- [Autor](#autora)
+- [Autor](#autor)
 
 
 
@@ -79,7 +79,7 @@
 * VideoJuego
 
 
-## Autores
+## Autor
 Ana Isabel Jasso Velázquez
 
 ## Copyright
