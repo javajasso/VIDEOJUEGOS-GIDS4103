@@ -16,7 +16,7 @@
 
 ## Contenido
 - [Proyectos de Clase](#lecciones)
-- [Challenges](#desafíos)
+- [Challenges](#challenges)
 - [Autor](#autora)
 
 
