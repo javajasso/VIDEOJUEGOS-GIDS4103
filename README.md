@@ -15,13 +15,13 @@
 
 
 ## Contenido
-- [Proyectos de Clase](#proyectosdeclase)
+- [Proyectos](#proyectos)
 - [Challenges](#challenges)
 - [Autor](#autor)
 
 
 
-## Proyectos de Clase
+## Proyectos
 
 * Lección 1 Prorotipo 1 - Control del Carrito
   * > Tutorial
