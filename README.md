@@ -12,30 +12,45 @@
 </p>
 
 
+
+
 ## Contenido
-
-- [Introducción](#introducción)
-- [Código Fuente](#código-fuente)
-- [Planificación](#planificación)
-- [Autores](#autores)
-- [Copyright](#copyright)
-
-- [Challenge 3D](#(https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/tree/666eadc0af69cd98cd27777e937ab4eb87ade816/challenge_3D))
+- [Proyectos de Clase](#lecciones)
+- [Challenges](#desafíos)
+- [Autor](#autora)
 
 
 
-## Introducción
+## Proyectos de Clase
 
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
-- Pantallas de Juego
-- Plan de creación de VideoJuego.
+* Lección 1 Prorotipo 1 - Control del Carrito
+  * > Tutorial
+  * > Laboratorio
+  * > Desafío
+  * > Aplicación Unity
+* Lección 2 Prototipo 2 Jugabilidad Básica
+  * > Tutorial
+  * > Laboratorio
+  * > Desafío
+  * > Prueba
+* Lección 3 Animaciones 2D
+  * > <a href=" https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/tree/666eadc0af69cd98cd27777e937ab4eb87ade816/challenge_3D">Challenge 3D</a>
+ 
+* Lección 4 Challenge 1
+  * > Tutorial
+  * > Laboratorio
+  - [Challenge 3D](#[introducción](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/tree/666eadc0af69cd98cd27777e937ab4eb87ade816/challenge_3D))
+  * > Desafío
+  * > Prueba
+* Lección 5
+  * > Tutorial
+  * > Laboratorio
+  * > Desafío
+  * > Prueba
 
-## Código Fuente
+
+
+## Challenges
 
 * Lección 1 Prorotipo 1 - Control del Carrito
   * > Tutorial
@@ -63,9 +78,6 @@
   * > Prueba
 * VideoJuego
 
-## Planificación
-
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
 Ana Isabel Jasso Velázquez
