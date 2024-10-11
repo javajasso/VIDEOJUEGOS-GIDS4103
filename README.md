@@ -32,9 +32,7 @@
 ###Parte 1
   * > [Aplicación Unity]()
   * > [Capturas de Evidencia]()
-  <p align="center">
-    <img src=""  width=1000 height=300>
-</p>
+    > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->  
  
 
  ###Parte 2
