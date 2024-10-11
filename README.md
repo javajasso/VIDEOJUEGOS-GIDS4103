@@ -18,14 +18,14 @@
 * Lección 1 Prorotipo 1 - Control del Carrito
    * > [Aplicación Unity](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/tree/main/Prototype%201)
 <p align="center">
-    <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/carrito.png" alt="Logo" width=1000 height=300>
+    <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/carrito.png"  width=1000 height=300>
 </p>
 
 * Lección 2 Prototipo 2 Jugabilidad Básica 
   * > [Aplicación Unity](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Prototype%202/prototipo2_GIDS4103_JASSO.unitypackage)
   * > [Capturas de Evidencia](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Prototype%202/Ejercicio%20Guiado%202.pdf)
   <p align="center">
-    <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/jugabilidad.png" alt="Logo" width=1000 height=300>
+    <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/jugabilidad.png"  width=1000 height=300>
 </p>
   
 * Lección 3 Animaciones 2D
@@ -33,7 +33,7 @@
   * > [Aplicación Unity]()
   * > [Capturas de Evidencia]()
   <p align="center">
-    <img src="" alt="Logo" width=1000 height=300>
+    <img src=""  width=1000 height=300>
 </p>
  
 
@@ -41,7 +41,7 @@
   * > [Aplicación Unity]()
   * > [Capturas de Evidencia]()
   <p align="center">
-    <img src="" alt="Logo" width=1000 height=300>
+    <img src=""  width=1000 height=300>
 </p>
  
 
@@ -49,7 +49,7 @@
   * > [Aplicación Unity]()
   * > [Capturas de Evidencia]()
   <p align="center">
-    <img src="" alt="Logo" width=1000 height=300>
+    <img src=""  width=1000 height=300>
 </p>
  
  
@@ -75,24 +75,24 @@
 * Lección 2 Prototipo 2 Jugabilidad Básica
    * > [Aplicación Unity]()
   <p align="center">
-    <img src="" alt="Logo" width=1000 height=300>
+    <img src="" width=1000 height=300>
  </p>
  
 * Lección 3 Animaciones 2D
    * > [Aplicación Unity]()
   <p align="center">
-    <img src="" alt="Logo" width=1000 height=300>
+    <img src=""  width=1000 height=300>
  </p>
  
 * Lección 4 Challenge 1
    * > [Aplicación Unity]()
   <p align="center">
-    <img src="" alt="Logo" width=1000 height=300>
+    <img src="" width=1000 height=300>
   </p>
 * Lección 5
   * > [Aplicación Unity]()
   <p align="center">
-    <img src="" alt="Logo" width=1000 height=300>
+    <img src=""  width=1000 height=300>
   </p>
 
 * VideoJuego
