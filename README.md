@@ -31,9 +31,9 @@
 * Lección 3 Animaciones 2D
 * >
 ###Parte 1
-  * > [Aplicación Unity]()
-  * > [Capturas de Evidencia]()
-    > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->  
+  * > [Aplicación Unity](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Animations%202D/PARTE%201/Animations2D-JASSO.unitypackage)
+  * > [Capturas de Evidencia](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Animations%202D/PARTE%201/Evidencia%20Animations%20Parte%201.pdf)
+       <p align="center">  <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/2d-parte1.png"  width=800 height=300> </p>
  
 
  ###Parte 2
