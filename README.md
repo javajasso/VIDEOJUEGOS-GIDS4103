@@ -37,9 +37,9 @@
  
 
  ###Parte 2
-  * > [Aplicación Unity]()
-  * > [Capturas de Evidencia]()
-  > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->  
+  * > [Aplicación Unity](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Animations%202D/PARTE%20%202/Animations%202D_JASSO_parte2.unitypackage)
+  * > [Capturas de Evidencia](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Animations%202D/PARTE%20%202/Evidencia%20Animations%20Parte%202.pdf)
+      <p align="center">  <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/2d-parte2.png"  width=800 height=300> </p>
  
 
  ###Parte 3
