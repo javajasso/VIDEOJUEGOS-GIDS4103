@@ -28,8 +28,8 @@
     <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/jugabilidad.png"  width=800 height=300>
 </p>
   
-* Lección 3 Animaciones 2D
-* >
+* ###Lección 3 Animaciones 2D
+
 ###Parte 1
   * > [Aplicación Unity](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Animations%202D/PARTE%201/Animations2D-JASSO.unitypackage)
   * > [Capturas de Evidencia](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Animations%202D/PARTE%201/Evidencia%20Animations%20Parte%201.pdf)
@@ -49,13 +49,13 @@
  
  
 * Lección 4 
-  * > Aplicacion Unity
-   > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->
-   > 
+  * > [Aplicación Unity]()
+  * > [Capturas de Evidencia]()
+  > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->  
 * Lección 5
-   * > Aplicacion Unity
-   > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->
-   > 
+  * > [Aplicación Unity]()
+  * > [Capturas de Evidencia]()
+  > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->  
 
 
 
