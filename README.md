@@ -55,6 +55,10 @@
 * Lección 5
   * > [Aplicación Unity]()
   * > [Capturas de Evidencia]()
+  > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->
+* Lección 6
+  * > [Aplicación Unity]()
+  * > [Capturas de Evidencia]()
   > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->  
 
 
@@ -63,13 +67,15 @@
 
 * Challenge 1 3D
   * > [Aplicación Unity](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Challenge%203D/challenge_3D_JASSO.unitypackage)
+  * > [Capturas de Evidencia]()
   <p align="center">
     <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/challenge1.png" alt="Logo" width=800 height=300>
  </p>
  
 * Challenge 2 Prototipo 2 Jugabilidad Básica
-   * > [Aplicación Unity]()
-  > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> --> 
+   * > [Aplicación Unity](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Challenge2_3D/challenge2_3D_JASSO.unitypackage)
+   * > [Capturas de Evidencia](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Challenge2_3D/Evidencia%20Challenge%202.pdf)
+    <p align="center">  <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/challenge2.png"  width=800 height=300> </p> 
  
 * Challenge 3 Animaciones 2D
    * > [Aplicación Unity]()
@@ -83,7 +89,7 @@
   > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->  
 
 * VideoJuego
-
+https://github.com/DANNYLOOL/The_Revenge-Game2D
 
 ## Autor
 Ana Isabel Jasso Velázquez
