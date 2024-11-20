@@ -43,9 +43,9 @@
  
 
  * Parte 3
-  * > [Aplicación Unity]()
-  * > [Capturas de Evidencia]()
-  > <!-- <p align="center">  <img src=""  width=1000 height=300> </p> -->  
+  * > [Aplicación Unity](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Animations%202D/PARTE%203/Animations%202D_Parte3.unitypackage)
+  * > [Capturas de Evidencia](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/Animations%202D/PARTE%203/Animations%202D%20Parte%203.pdf)
+   <p align="center">  <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/2d-parte3.png"  width=1000 height=300> </p> 
  
  
 * Lección 4 
