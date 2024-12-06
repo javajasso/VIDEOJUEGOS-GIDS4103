@@ -89,7 +89,7 @@
    <p align="center">  <img src="https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/images/challenge4y5.png"  width=800 height=300> </p> 
 
 * VideoJuego
- * > [Repositorio en Git] (https://github.com/DANNYLOOL/The_Revenge-Game2D)
+ * > [Repositorio en Git](https://github.com/DANNYLOOL/The_Revenge-Game2D)
  * > [Despliegue en Itchio](https://dannylool.itch.io/the-revenge)
  * > [Despliegue en Android(APK)](https://github.com/javajasso/VIDEOJUEGOS-GIDS4103/blob/main/APK%20Android/The_Revenge.apk)
 
